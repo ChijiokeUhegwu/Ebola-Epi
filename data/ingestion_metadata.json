@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-10-21T20:18:30+00:00",
+  "who_gho_probe": {
+    "status": "skipped"
+  },
+  "datasets": {
+    "west_africa": {
+      "package_id": "ebola-cases-2014",
+      "title": "West Africa Ebola outbreak 2014-2016",
+      "organization": "HDX",
+      "resource_url": "https://data.humdata.org/dataset/0d089fa0-3567-4b01-9c03-39d340ff34e3/resource/c59b5722-ca4b-41ca-a446-472d6d824d01/download/ebola_data_db_format.csv",
+      "last_modified": null,
+      "output_file": "ebola_west_africa.csv",
+      "rows": 5205,
+      "start": "2014-08-29",
+      "end": "2016-03-23",
+      "countries": [
+        "Guinea",
+        "Italy",
+        "Liberia",
+        "Mali",
+        "Nigeria",
+        "Senegal",
+        "Sierra Leone",
+        "Spain",
+        "United Kingdom",
+        "United States of America"
+      ],
+      "cases": 14122,
+      "deaths": 4806
+    },
+    "drc": {
+      "package_id": "republique-democratique-du-congo-cas-et-deces-d-ebola",
+      "title": "DRC Ebola cases and deaths",
+      "organization": "HDX",
+      "resource_url": "https://data.humdata.org/dataset/e902b209-b7bc-42f9-893a-294276d7cc62/resource/f7c9b552-0d41-4559-9fae-c450175fc39c/download/drc_ebola_cases_consolidated.csv",
+      "last_modified": null,
+      "output_file": "ebola_drc_2026.csv",
+      "rows": 158,
+      "start": "2026-05-14",
+      "end": "2026-10-18",
+      "countries": [
+        "Democratic Republic of the Congo"
+      ],
+      "cases": 9552,
+      "deaths": 4602
+    },
+    "drc_subnational": {
+      "package_id": "republique-democratique-du-congo-cas-et-deces-d-ebola",
+      "title": "DRC Ebola cases and deaths",
+      "organization": "HDX",
+      "resource_url": "https://data.humdata.org/dataset/e902b209-b7bc-42f9-893a-294276d7cc62/resource/f7c9b552-0d41-4559-9fae-c450175fc39c/download/drc_ebola_cases_consolidated.csv",
+      "last_modified": null,
+      "output_file": "ebola_drc_subnational.csv",
+      "rows": 67,
+      "start": null,
+      "end": null,
+      "countries": [],
+      "cases": 1895,
+      "deaths": 633,
+      "locations": 67
+    }
+  }
+}

@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#1A73E8"             # Consistent Public Health Blue for both modes
+backgroundColor = "#FFFFFF"          # Default Clean White Background
+secondaryBackgroundColor = "#F8F9FA"  # Light Gray Sidebar / Card backgrounds
+textColor = "#202124"                # Dark Charcoal text for maximum legibility
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
