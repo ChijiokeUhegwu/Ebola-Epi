@@ -1,6 +1,8 @@
 # Ebola Epi Watch: A Public Health Epidemiological Dashboard
 
-**Real outbreak data. Clear comparisons. Interactive SIR scenarios.**
+Live Dashboard: [Ebola Epi Watch · Streamlit](https://chijiokeuhegwu-ebola-epi-app-x8mtnh.streamlit.app/)
+
+![Ebola Epi Watch Dashboard Overview](ebola-epi-overview.png)
 
 ## 1. Project Title & Overview
 
