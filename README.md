@@ -144,11 +144,9 @@ requests>=2.31
 
 ### Step 1: Clone the repository
 
-Replace the placeholder URL with your repository address.
-
 ```bash
-git clone https://github.com/your-org/ebola-epi-watch.git
-cd ebola-epi-watch
+git clone https://github.com/ChijiokeUhegwu/Ebola-Epi
+cd Ebola-Epi 
 ```
 
 ### Step 2: Create and activate a virtual environment
@@ -234,7 +232,7 @@ http://localhost:8501
 | Resource | Link |
 |---|---|
 | **GitHub Repository** | `https://github.com/ChijiokeUhegwu/Ebola-Epi` |
-| **Live Dashboard** | `https://ebola-epi-watch.onrender.com/` |
+| **Live Dashboard** | `https://chijiokeuhegwu-ebola-epi-app-x8mtnh.streamlit.app/` |
 
 ### Data sources and attribution
 
@@ -251,4 +249,4 @@ Please retain the source attribution when reusing or redeploying the dashboard.
 
 ---
 
-**Ebola Epi Watch** is a teaching and scenario-planning tool. It supports exploration and discussion; it does not replace official surveillance, field epidemiology, or clinical guidance.
+**Ebola Epi Watch** is a teaching and scenario-planning tool built by Chijioke C. Uhegwu. It supports exploration and discussion; it does not replace official surveillance, field epidemiology, or clinical guidance. All rights reserved. 
