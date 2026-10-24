@@ -1,8 +1,23 @@
 # Ebola Epi Watch: A Public Health Epidemiological Dashboard
 
-Live Dashboard: [Ebola Epi Watch · Streamlit](https://chijiokeuhegwu-ebola-epi-app-x8mtnh.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ebola-epi.streamlit.app/)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Data Source](https://img.shields.io/badge/Data%20Source-HDX%20%2F%20WHO%20GHO-003366?logo=worldhealthorganization&logoColor=white)
+![Modeling](https://img.shields.io/badge/Modeling-SciPy%20SIR%20Simulation-FF6F00?logo=scipy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Surveillance-0F766E)
 
-![Ebola Epi Watch Dashboard Overview](ebola-epi-overview.png)
+---
+
+## Live Application & Preview
+
+Access the live cloud deployment here:
+🔗 **[Launch Ebola Epi Watch Dashboard](https://ebola-epi.streamlit.app/)**
+
+<div align="center">
+  <img src="ebola-epi-overview.png" alt="Ebola Epi Watch: A Public Health Epidemiological Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</div>
+
+---
 
 ## 1. Project Title & Overview
 
@@ -234,7 +249,7 @@ http://localhost:8501
 | Resource | Link |
 |---|---|
 | **GitHub Repository** | `https://github.com/ChijiokeUhegwu/Ebola-Epi` |
-| **Live Dashboard** | `https://chijiokeuhegwu-ebola-epi-app-x8mtnh.streamlit.app/` |
+| **Live Dashboard** | `https://ebola-epi.streamlit.app/` |
 
 ### Data sources and attribution
 
