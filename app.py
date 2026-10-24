@@ -4,6 +4,11 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import sys
+
+BASE_DIR = Path(__file__).resolve().parent
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
 
 import numpy as np
 import pandas as pd
@@ -16,7 +21,6 @@ from epi_model import SIRParams, fit_sir, model_metrics, simulate_sir
 # Configuration and visual constants
 # ---------------------------------------------------------------------------
 
-BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
 COLORS = {
